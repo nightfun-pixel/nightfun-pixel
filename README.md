@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&pause=1400&duration=2600&color=FF69B4&center=true&vCenter=true&width=560&lines=nya.;aka+intranetboy;compiling+reality+at+03%3A00;reverse-engineering+the+vibe;something+on+repeat" alt="nya · aka intranetboy · compiling reality at 03:00" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&pause=1400&duration=2600&color=FF69B4&center=true&vCenter=true&width=560&lines=will+the+Linux+kernel+run+on+a+microwave%3F;does+the+toaster+expose+a+REST+API%3F;is+the+fridge+RFC+2324+compliant%3F;can+I+run+Doom+on+the+kettle%3F;why+is+the+vacuum+on+Kubernetes%3F" alt="will the Linux kernel run on a microwave?" />
 </p>
 
 <p align="center">
