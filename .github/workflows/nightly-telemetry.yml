@@ -1,0 +1,38 @@
+name: nightly telemetry
+
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh telemetry
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_telemetry.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "nightfun-pixel"
+          git config user.email "47975778+nightfun-pixel@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "telemetry is already current"
+            exit 0
+          fi
+          git add README.md telemetry.json
+          git commit -m "Update nightly telemetry"
+          git push

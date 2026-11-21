@@ -64,6 +64,18 @@ timezone = "UTC+4"
 sleep    = "optional dependency"
 mode     = "what's happening"
 
+[telemetry]
+tokens_burned    = "1.242B"        # estimated by vibes
+contributions    = 318             # public, this year
+public_repos     = 11
+stars            = 0               # received
+followers        = 3
+energy_drinks    = "0x18"          # this year, roughly
+contexts_lost    = 404
+patience         = "deprecated"
+router_load      = "0.0% — runs on GitHub Actions"
+last_sync        = "2026-11-21"
+
 [stack]
 core     = ["C++", "Python", "JavaScript"]
 builds   = ["custom launchers", "AI harnesses", "LLM pipelines", "game localization"]
