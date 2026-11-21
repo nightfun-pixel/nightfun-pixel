@@ -101,19 +101,10 @@ soundtrack = "something on repeat"
 
 ### `♫ now_playing`
 
-<!-- spotify-github-profile ─────────────────────────────────────
-     profile: https://open.spotify.com/user/31tm5ph4yuntoy6mdmhiar24iapu
-     connect: https://spotify-github-profile.kittinanx.com/api/login
-     after connecting, swap the badge below for:
-
-     <a href="https://open.spotify.com/user/31tm5ph4yuntoy6mdmhiar24iapu">
-       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tm5ph4yuntoy6mdmhiar24iapu&cover_image=true&theme=novatorem&bar_color=ff69b4&border_radius=12&show_offline=true" alt="now playing" />
-     </a>
-────────────────────────────────────────────────────────────── -->
-
+<!-- spotify-github-profile · re-auth: https://spotify-github-profile.kittinanx.com/api/login -->
 <p align="center">
-  <a href="https://open.spotify.com/user/31tm5ph4yuntoy6mdmhiar24iapu">
-    <img src="https://img.shields.io/badge/spotify-profile-ff69b4?style=flat-square&labelColor=0b0b0f&logo=spotify&logoColor=white" alt="Spotify profile" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tm5ph4yuntoy6mdmhiar24iapu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tm5ph4yuntoy6mdmhiar24iapu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=4bf30c&bar_color_cover=false" alt="spotify-github-profile" />
   </a>
 </p>
 
