@@ -1,7 +1,7 @@
-<!-- nightfun / intranetboy · banner.gif: 1920×1080, 50 fps (GIF ceiling) · banner.webp keeps the true 60 fps -->
+<!-- nightfun / intranetboy · night-banner.gif: 1080×608, 30 fps · night-banner.webp: 1080×608, 60 fps swap -->
 
 <p align="center">
-  <img src="./banner.gif" width="820" alt="nightfun — animated banner" />
+  <img src="./night-banner.gif" width="820" alt="nightfun — animated banner" />
 </p>
 
 <h1 align="center"><code>nightfun_</code></h1>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&pause=1400&duration=2600&color=FF69B4&center=true&vCenter=true&width=560&lines=nya.;aka+intranetboy;compiling+reality+at+03%3A00;reverse-engineering+the+vibe;brasil+phonk+on+loop" alt="nya · aka intranetboy · compiling reality at 03:00" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&pause=1400&duration=2600&color=FF69B4&center=true&vCenter=true&width=560&lines=nya.;aka+intranetboy;compiling+reality+at+03%3A00;reverse-engineering+the+vibe;something+on+repeat" alt="nya · aka intranetboy · compiling reality at 03:00" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/stack-C%2B%2B%20%C2%B7%20Python%20%C2%B7%20JS-8b5cf6?style=flat-square&labelColor=0b0b0f" alt="stack: C++ · Python · JS" />
-  <img src="https://img.shields.io/badge/sound-brasil%20phonk-ff69b4?style=flat-square&labelColor=0b0b0f&logo=spotify&logoColor=0b0b0f" alt="sound: brasil phonk" />
+  <img src="https://img.shields.io/badge/sound-on%20repeat-ff69b4?style=flat-square&labelColor=0b0b0f&logo=spotify&logoColor=0b0b0f" alt="sound: on repeat" />
 </p>
 
 <p align="center">
@@ -56,13 +56,13 @@
 
 ```toml
 # ~/.config/nightfun/operator.toml
-# runtime: coffee → thoughts → commits → regret → coffee
+# runtime: energy drink → thoughts → commits → regret → energy drink
 
 [identity]
 alias    = ["nightfun", "intranetboy"]
 timezone = "UTC+4"
 sleep    = "optional dependency"
-mode     = "post-ironic"
+mode     = "what's happening"
 
 [stack]
 core     = ["C++", "Python", "JavaScript"]
@@ -74,8 +74,8 @@ building = "an AI harness that reverse-engineers the vibe"
 avoiding = "daylight"
 
 [fuels]
-caffeine   = "3 cups / night — minimum viable dose"
-soundtrack = "SXYGX → Dora, on loop"
+caffeine   = "energy drinks — minimum viable dose"
+soundtrack = "something on repeat"
 ```
 
 ### `❯ loadout`
@@ -102,17 +102,18 @@ soundtrack = "SXYGX → Dora, on loop"
 ### `♫ now_playing`
 
 <!-- spotify-github-profile ─────────────────────────────────────
+     profile: https://open.spotify.com/user/31tm5ph4yuntoy6mdmhiar24iapu
      connect: https://spotify-github-profile.kittinanx.com/api/login
-     then swap the placeholder below for:
+     after connecting, swap the badge below for:
 
-     <a href="https://open.spotify.com/user/YOUR_ID">
-       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=novatorem&bar_color=ff69b4&border_radius=12&show_offline=true" alt="now playing" />
+     <a href="https://open.spotify.com/user/31tm5ph4yuntoy6mdmhiar24iapu">
+       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tm5ph4yuntoy6mdmhiar24iapu&cover_image=true&theme=novatorem&bar_color=ff69b4&border_radius=12&show_offline=true" alt="now playing" />
      </a>
 ────────────────────────────────────────────────────────────── -->
 
 <p align="center">
-  <a href="https://open.spotify.com/search/SXYGX%20QUERO%20AMOR">
-    <img src="https://img.shields.io/badge/now_playing-SXYGX%20%E2%80%94%20QUERO%20AMOR-ff69b4?style=flat-square&labelColor=0b0b0f&logo=spotify&logoColor=white" alt="SXYGX — QUERO AMOR" />
+  <a href="https://open.spotify.com/user/31tm5ph4yuntoy6mdmhiar24iapu">
+    <img src="https://img.shields.io/badge/spotify-profile-ff69b4?style=flat-square&labelColor=0b0b0f&logo=spotify&logoColor=white" alt="Spotify profile" />
   </a>
 </p>
 
