@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&pause=1400&duration=2600&color=FF69B4&center=true&vCenter=true&width=560&lines=will+the+Linux+kernel+run+on+a+microwave%3F;does+the+toaster+expose+a+REST+API%3F;is+the+fridge+RFC+2324+compliant%3F;can+I+run+Doom+on+the+kettle%3F;why+is+the+vacuum+on+Kubernetes%3F" alt="will the Linux kernel run on a microwave?" />
+  <img src="./assets/ticker.svg" width="820" alt="will the Linux kernel run on a microwave?" />
 </p>
 
 <p align="center">
@@ -65,16 +65,16 @@ sleep    = "optional dependency"
 mode     = "what's happening"
 
 [telemetry]
-tokens_burned    = "1.242B"        # estimated by vibes
-contributions    = 319             # public, this year
-public_repos     = 11
-stars            = 0               # received
-followers        = 3
-energy_drinks    = "0x18"          # this year, roughly
-contexts_lost    = 404
-patience         = "deprecated"
-router_load      = "0.0% — runs on GitHub Actions"
-last_sync        = "2026-11-21"
+tokens_burned     = "1.24B"         # estimated by vibes
+contributions     = 428             # public, this year
+public_repos      = 11
+stars             = 1
+followers         = 3
+energy_drinks     = "0x20"          # this year, roughly
+contexts_lost     = 404
+patience          = "deprecated"
+router_load       = "0.0% — runs on GitHub Actions"
+last_sync         = "2026-11-21"
 
 [stack]
 core     = ["C++", "Python", "JavaScript"]

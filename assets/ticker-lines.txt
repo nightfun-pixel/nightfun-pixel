@@ -1,0 +1,100 @@
+will the Linux kernel run on a microwave?
+does the toaster expose a REST API?
+is the fridge RFC 2324 compliant?
+can I run Doom on the kettle?
+why is the vacuum on Kubernetes?
+does the dishwasher support OTA updates?
+can I SSH into the coffee machine?
+is the washing machine a Turing machine?
+why does the air fryer need root?
+can I flash custom firmware on the rice cooker?
+is the smart bulb mining crypto?
+does the printer have a package manager?
+why is the doorbell edge-compatible?
+is the TV remote a finite state machine?
+does the router have a kernel panic?
+why is the toaster OOM-killed?
+can I mount my feelings as a filesystem?
+is the microwave PCIe-compliant?
+does the fridge run systemd?
+is the blender a real-time system?
+why does the kettle need a license key?
+can I `chmod 777` the washing machine?
+does the vacuum have a debug port?
+is the air conditioner stateless?
+why is the fridge in read-only mode?
+can I `rm -rf` my sleep schedule?
+is my sleep a race condition?
+why is my bedtime a cron job?
+can I `git bisect` my life choices?
+does my life have a test suite?
+is my motivation a dangling pointer?
+why is my brain swapping?
+can I `malloc` more attention span?
+does my focus have a memory leak?
+is my sleep debt compound interest?
+why is my caffeine level a float?
+can I `fsck` my sleep?
+does my circadian rhythm need a patch?
+is my pillow a heatsink?
+can I `modprobe` motivation?
+does my alarm support `SIGKILL`?
+is my snooze button a denial-of-service?
+why is my morning a cold start?
+can I preload my coffee?
+does my energy drink have a page cache?
+does the cat have a context window?
+is attention all you need for a cat?
+why is the cat's tokenizer broken?
+can I fine-tune the cat on anime?
+does the cat hallucinate at 3 AM?
+is the cat's brain a neural network?
+why is the cat's model quantized?
+can I run the cat on a microcontroller?
+does the cat fit in 4 KB?
+is the cat's VRAM enough?
+why is the cat's pod pending?
+can I schedule the cat on a GPU node?
+does the cat have a CUDA core?
+is the cat's API rate-limited?
+why is the cat's cache always cold?
+can I `git rebase` the cat?
+does the cat have a merge conflict?
+is the cat's branch protected?
+why is the cat's CI red?
+can I `docker build` the cat?
+does the cat have a health check?
+is the isekai world's YAML valid?
+why is the magical girl's helm chart broken?
+can I `kubectl exec` into the cat?
+does the magical girl team have a service mesh?
+is my anime backlog eating my RAM?
+why is the cat's release blocked?
+can I ship the anime on Friday?
+does the isekai have a rollback plan?
+is the idol group's uptime 99.9%?
+does the mecha have a JTAG port?
+is the mecha's UART noisy?
+why is the cat's clock drifting?
+can I `perf` the anime opening?
+does the NPC have a stack canary?
+is the boss's ASLR working?
+why is the boss's ROP chain meowing?
+can I exploit the gacha banner?
+does the magical girl have a CVE?
+is the mecha's firmware signed?
+is the mascot a kernel module?
+does the magical girl wand support hot-swap?
+why is the anime opening 90 seconds but the build 4 hours?
+is the transformation sequence a race condition?
+does the cat ear headband have a kernel driver?
+is the power of friendship a shared library?
+why is the tournament arc a merge conflict?
+can I `kubectl rollout undo` the isekai?
+is the gacha rate a floating-point error?
+does the NPC know he's in a loop?
+why is the save point read-only?
+can I `scp` the magical girl into production?
+is the anime recap a cache hit?
+does the beach episode have a rollback?
+why is my patience `EAGAIN`?

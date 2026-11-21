@@ -1,0 +1,238 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="40"
+     viewBox="0 0 820 40" role="img" aria-labelledby="title desc">
+  <title id="title">absurd nightly questions</title>
+  <desc id="desc">100 absurd questions about systems, appliances, night coding and anime.</desc>
+  <style>
+    text {
+      font-family: "JetBrains Mono", "Fira Code", "Cascadia Code", Consolas, monospace;
+      font-size: 14px;
+      fill: #ff69b4;
+    }
+    .line {
+      opacity: 0;
+      animation: show 420.0s linear infinite;
+    }
+    .clip {
+      transform-box: fill-box;
+      transform-origin: left center;
+      animation: reveal 420.0s linear infinite;
+    }
+    .cursor {
+      animation: blink 1s steps(1) infinite;
+    }
+    @keyframes show {
+      0%, 0.9900% { opacity: 1; }
+      1.0000%, 100% { opacity: 0; }
+    }
+    @keyframes reveal {
+      0% { transform: scaleX(0); }
+      0.0952% { transform: scaleX(1); }
+      100% { transform: scaleX(1); }
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
+  <defs>
+  <clipPath id="c0" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:0.0s" x="225.2" y="0" width="369.6" height="40"/></clipPath>
+  <clipPath id="c1" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:4.2s" x="250.4" y="0" width="319.2" height="40"/></clipPath>
+  <clipPath id="c2" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:8.4s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c3" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:12.6s" x="275.6" y="0" width="268.8" height="40"/></clipPath>
+  <clipPath id="c4" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:16.8s" x="263.0" y="0" width="294.0" height="40"/></clipPath>
+  <clipPath id="c5" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:21.0s" x="229.4" y="0" width="361.2" height="40"/></clipPath>
+  <clipPath id="c6" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:25.2s" x="254.6" y="0" width="310.8" height="40"/></clipPath>
+  <clipPath id="c7" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:29.4s" x="229.4" y="0" width="361.2" height="40"/></clipPath>
+  <clipPath id="c8" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:33.6s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c9" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:37.8s" x="200.0" y="0" width="420.0" height="40"/></clipPath>
+  <clipPath id="c10" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:42.0s" x="263.0" y="0" width="294.0" height="40"/></clipPath>
+  <clipPath id="c11" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:46.2s" x="229.4" y="0" width="361.2" height="40"/></clipPath>
+  <clipPath id="c12" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:50.4s" x="246.2" y="0" width="327.6" height="40"/></clipPath>
+  <clipPath id="c13" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:54.6s" x="229.4" y="0" width="361.2" height="40"/></clipPath>
+  <clipPath id="c14" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:58.8s" x="246.2" y="0" width="327.6" height="40"/></clipPath>
+  <clipPath id="c15" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:63.0s" x="271.4" y="0" width="277.2" height="40"/></clipPath>
+  <clipPath id="c16" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:67.2s" x="229.4" y="0" width="361.2" height="40"/></clipPath>
+  <clipPath id="c17" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:71.4s" x="263.0" y="0" width="294.0" height="40"/></clipPath>
+  <clipPath id="c18" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:75.6s" x="279.8" y="0" width="260.4" height="40"/></clipPath>
+  <clipPath id="c19" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:79.8s" x="254.6" y="0" width="310.8" height="40"/></clipPath>
+  <clipPath id="c20" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:84.0s" x="233.6" y="0" width="352.8" height="40"/></clipPath>
+  <clipPath id="c21" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:88.2s" x="237.8" y="0" width="344.4" height="40"/></clipPath>
+  <clipPath id="c22" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:92.4s" x="254.6" y="0" width="310.8" height="40"/></clipPath>
+  <clipPath id="c23" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:96.6s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c24" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:100.8s" x="246.2" y="0" width="327.6" height="40"/></clipPath>
+  <clipPath id="c25" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:105.0s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c26" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:109.2s" x="275.6" y="0" width="268.8" height="40"/></clipPath>
+  <clipPath id="c27" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:113.4s" x="275.6" y="0" width="268.8" height="40"/></clipPath>
+  <clipPath id="c28" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:117.6s" x="250.4" y="0" width="319.2" height="40"/></clipPath>
+  <clipPath id="c29" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:121.8s" x="267.2" y="0" width="285.6" height="40"/></clipPath>
+  <clipPath id="c30" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:126.0s" x="246.2" y="0" width="327.6" height="40"/></clipPath>
+  <clipPath id="c31" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:130.2s" x="292.4" y="0" width="235.2" height="40"/></clipPath>
+  <clipPath id="c32" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:134.4s" x="250.4" y="0" width="319.2" height="40"/></clipPath>
+  <clipPath id="c33" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:138.6s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c34" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:142.8s" x="250.4" y="0" width="319.2" height="40"/></clipPath>
+  <clipPath id="c35" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:147.0s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c36" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:151.2s" x="305.0" y="0" width="210.0" height="40"/></clipPath>
+  <clipPath id="c37" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:155.4s" x="237.8" y="0" width="344.4" height="40"/></clipPath>
+  <clipPath id="c38" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:159.6s" x="296.6" y="0" width="226.8" height="40"/></clipPath>
+  <clipPath id="c39" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:163.8s" x="279.8" y="0" width="260.4" height="40"/></clipPath>
+  <clipPath id="c40" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:168.0s" x="263.0" y="0" width="294.0" height="40"/></clipPath>
+  <clipPath id="c41" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:172.2s" x="229.4" y="0" width="361.2" height="40"/></clipPath>
+  <clipPath id="c42" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:176.4s" x="267.2" y="0" width="285.6" height="40"/></clipPath>
+  <clipPath id="c43" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:180.6s" x="296.6" y="0" width="226.8" height="40"/></clipPath>
+  <clipPath id="c44" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:184.8s" x="233.6" y="0" width="352.8" height="40"/></clipPath>
+  <clipPath id="c45" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:189.0s" x="250.4" y="0" width="319.2" height="40"/></clipPath>
+  <clipPath id="c46" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:193.2s" x="246.2" y="0" width="327.6" height="40"/></clipPath>
+  <clipPath id="c47" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:197.4s" x="254.6" y="0" width="310.8" height="40"/></clipPath>
+  <clipPath id="c48" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:201.6s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c49" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:205.8s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c50" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:210.0s" x="246.2" y="0" width="327.6" height="40"/></clipPath>
+  <clipPath id="c51" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:214.2s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c52" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:218.4s" x="233.6" y="0" width="352.8" height="40"/></clipPath>
+  <clipPath id="c53" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:222.6s" x="292.4" y="0" width="235.2" height="40"/></clipPath>
+  <clipPath id="c54" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:226.8s" x="292.4" y="0" width="235.2" height="40"/></clipPath>
+  <clipPath id="c55" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:231.0s" x="275.6" y="0" width="268.8" height="40"/></clipPath>
+  <clipPath id="c56" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:235.2s" x="242.0" y="0" width="336.0" height="40"/></clipPath>
+  <clipPath id="c57" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:239.4s" x="271.4" y="0" width="277.2" height="40"/></clipPath>
+  <clipPath id="c58" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:243.6s" x="271.4" y="0" width="277.2" height="40"/></clipPath>
+  <clipPath id="c59" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:247.8s" x="250.4" y="0" width="319.2" height="40"/></clipPath>
+  <clipPath id="c60" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:252.0s" x="284.0" y="0" width="252.0" height="40"/></clipPath>
+  <clipPath id="c61" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:256.2s" x="250.4" y="0" width="319.2" height="40"/></clipPath>
+  <clipPath id="c62" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:260.4s" x="271.4" y="0" width="277.2" height="40"/></clipPath>
+  <clipPath id="c63" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:264.6s" x="296.6" y="0" width="226.8" height="40"/></clipPath>
+  <clipPath id="c64" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:268.8s" x="275.6" y="0" width="268.8" height="40"/></clipPath>
+  <clipPath id="c65" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:273.0s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c66" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:277.2s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c67" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:281.4s" x="212.6" y="0" width="394.8" height="40"/></clipPath>
+  <clipPath id="c68" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:285.6s" x="254.6" y="0" width="310.8" height="40"/></clipPath>
+  <clipPath id="c69" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:289.8s" x="200.0" y="0" width="420.0" height="40"/></clipPath>
+  <clipPath id="c70" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:294.0s" x="254.6" y="0" width="310.8" height="40"/></clipPath>
+  <clipPath id="c71" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:298.2s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c72" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:302.4s" x="267.2" y="0" width="285.6" height="40"/></clipPath>
+  <clipPath id="c73" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:306.6s" x="242.0" y="0" width="336.0" height="40"/></clipPath>
+  <clipPath id="c74" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:310.8s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c75" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:315.0s" x="263.0" y="0" width="294.0" height="40"/></clipPath>
+  <clipPath id="c76" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:319.2s" x="288.2" y="0" width="243.6" height="40"/></clipPath>
+  <clipPath id="c77" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:323.4s" x="263.0" y="0" width="294.0" height="40"/></clipPath>
+  <clipPath id="c78" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:327.6s" x="267.2" y="0" width="285.6" height="40"/></clipPath>
+  <clipPath id="c79" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:331.8s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c80" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:336.0s" x="284.0" y="0" width="252.0" height="40"/></clipPath>
+  <clipPath id="c81" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:340.2s" x="246.2" y="0" width="327.6" height="40"/></clipPath>
+  <clipPath id="c82" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:344.4s" x="267.2" y="0" width="285.6" height="40"/></clipPath>
+  <clipPath id="c83" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:348.6s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c84" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:352.8s" x="267.2" y="0" width="285.6" height="40"/></clipPath>
+  <clipPath id="c85" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:357.0s" x="271.4" y="0" width="277.2" height="40"/></clipPath>
+  <clipPath id="c86" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:361.2s" x="212.6" y="0" width="394.8" height="40"/></clipPath>
+  <clipPath id="c87" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:365.4s" x="153.8" y="0" width="512.4" height="40"/></clipPath>
+  <clipPath id="c88" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:369.6s" x="195.8" y="0" width="428.4" height="40"/></clipPath>
+  <clipPath id="c89" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:373.8s" x="200.0" y="0" width="420.0" height="40"/></clipPath>
+  <clipPath id="c90" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:378.0s" x="212.6" y="0" width="394.8" height="40"/></clipPath>
+  <clipPath id="c91" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:382.2s" x="216.8" y="0" width="386.4" height="40"/></clipPath>
+  <clipPath id="c92" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:386.4s" x="229.4" y="0" width="361.2" height="40"/></clipPath>
+  <clipPath id="c93" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:390.6s" x="225.2" y="0" width="369.6" height="40"/></clipPath>
+  <clipPath id="c94" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:394.8s" x="258.8" y="0" width="302.4" height="40"/></clipPath>
+  <clipPath id="c95" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:399.0s" x="263.0" y="0" width="294.0" height="40"/></clipPath>
+  <clipPath id="c96" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:403.2s" x="208.4" y="0" width="403.2" height="40"/></clipPath>
+  <clipPath id="c97" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:407.4s" x="267.2" y="0" width="285.6" height="40"/></clipPath>
+  <clipPath id="c98" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:411.6s" x="233.6" y="0" width="352.8" height="40"/></clipPath>
+  <clipPath id="c99" clipPathUnits="userSpaceOnUse"><rect class="clip" style="animation-delay:415.8s" x="279.8" y="0" width="260.4" height="40"/></clipPath>
+  </defs>
+  <text class="line" style="animation-delay:0.0s" x="225.2" y="27" textLength="369.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)">❯ will the Linux kernel run on a microwave?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:4.2s" x="250.4" y="27" textLength="319.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)">❯ does the toaster expose a REST API?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:8.4s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)">❯ is the fridge RFC 2324 compliant?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:12.6s" x="275.6" y="27" textLength="268.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c3)">❯ can I run Doom on the kettle?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:16.8s" x="263.0" y="27" textLength="294.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c4)">❯ why is the vacuum on Kubernetes?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:21.0s" x="229.4" y="27" textLength="361.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c5)">❯ does the dishwasher support OTA updates?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:25.2s" x="254.6" y="27" textLength="310.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c6)">❯ can I SSH into the coffee machine?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:29.4s" x="229.4" y="27" textLength="361.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c7)">❯ is the washing machine a Turing machine?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:33.6s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c8)">❯ why does the air fryer need root?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:37.8s" x="200.0" y="27" textLength="420.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c9)">❯ can I flash custom firmware on the rice cooker?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:42.0s" x="263.0" y="27" textLength="294.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c10)">❯ is the smart bulb mining crypto?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:46.2s" x="229.4" y="27" textLength="361.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c11)">❯ does the printer have a package manager?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:50.4s" x="246.2" y="27" textLength="327.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c12)">❯ why is the doorbell edge-compatible?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:54.6s" x="229.4" y="27" textLength="361.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c13)">❯ is the TV remote a finite state machine?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:58.8s" x="246.2" y="27" textLength="327.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c14)">❯ does the router have a kernel panic?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:63.0s" x="271.4" y="27" textLength="277.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c15)">❯ why is the toaster OOM-killed?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:67.2s" x="229.4" y="27" textLength="361.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c16)">❯ can I mount my feelings as a filesystem?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:71.4s" x="263.0" y="27" textLength="294.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c17)">❯ is the microwave PCIe-compliant?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:75.6s" x="279.8" y="27" textLength="260.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c18)">❯ does the fridge run systemd?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:79.8s" x="254.6" y="27" textLength="310.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c19)">❯ is the blender a real-time system?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:84.0s" x="233.6" y="27" textLength="352.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c20)">❯ why does the kettle need a license key?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:88.2s" x="237.8" y="27" textLength="344.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c21)">❯ can I `chmod 777` the washing machine?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:92.4s" x="254.6" y="27" textLength="310.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c22)">❯ does the vacuum have a debug port?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:96.6s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c23)">❯ is the air conditioner stateless?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:100.8s" x="246.2" y="27" textLength="327.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c24)">❯ why is the fridge in read-only mode?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:105.0s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c25)">❯ can I `rm -rf` my sleep schedule?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:109.2s" x="275.6" y="27" textLength="268.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c26)">❯ is my sleep a race condition?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:113.4s" x="275.6" y="27" textLength="268.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c27)">❯ why is my bedtime a cron job?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:117.6s" x="250.4" y="27" textLength="319.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c28)">❯ can I `git bisect` my life choices?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:121.8s" x="267.2" y="27" textLength="285.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c29)">❯ does my life have a test suite?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:126.0s" x="246.2" y="27" textLength="327.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c30)">❯ is my motivation a dangling pointer?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:130.2s" x="292.4" y="27" textLength="235.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c31)">❯ why is my brain swapping?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:134.4s" x="250.4" y="27" textLength="319.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c32)">❯ can I `malloc` more attention span?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:138.6s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c33)">❯ does my focus have a memory leak?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:142.8s" x="250.4" y="27" textLength="319.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c34)">❯ is my sleep debt compound interest?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:147.0s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c35)">❯ why is my caffeine level a float?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:151.2s" x="305.0" y="27" textLength="210.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c36)">❯ can I `fsck` my sleep?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:155.4s" x="237.8" y="27" textLength="344.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c37)">❯ does my circadian rhythm need a patch?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:159.6s" x="296.6" y="27" textLength="226.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c38)">❯ is my pillow a heatsink?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:163.8s" x="279.8" y="27" textLength="260.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c39)">❯ can I `modprobe` motivation?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:168.0s" x="263.0" y="27" textLength="294.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c40)">❯ does my alarm support `SIGKILL`?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:172.2s" x="229.4" y="27" textLength="361.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c41)">❯ is my snooze button a denial-of-service?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:176.4s" x="267.2" y="27" textLength="285.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c42)">❯ why is my morning a cold start?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:180.6s" x="296.6" y="27" textLength="226.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c43)">❯ can I preload my coffee?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:184.8s" x="233.6" y="27" textLength="352.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c44)">❯ does my energy drink have a page cache?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:189.0s" x="250.4" y="27" textLength="319.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c45)">❯ does the cat have a context window?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:193.2s" x="246.2" y="27" textLength="327.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c46)">❯ is attention all you need for a cat?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:197.4s" x="254.6" y="27" textLength="310.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c47)">❯ why is the cat&#x27;s tokenizer broken?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:201.6s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c48)">❯ can I fine-tune the cat on anime?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:205.8s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c49)">❯ does the cat hallucinate at 3 AM?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:210.0s" x="246.2" y="27" textLength="327.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c50)">❯ is the cat&#x27;s brain a neural network?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:214.2s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c51)">❯ why is the cat&#x27;s model quantized?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:218.4s" x="233.6" y="27" textLength="352.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c52)">❯ can I run the cat on a microcontroller?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:222.6s" x="292.4" y="27" textLength="235.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c53)">❯ does the cat fit in 4 KB?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:226.8s" x="292.4" y="27" textLength="235.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c54)">❯ is the cat&#x27;s VRAM enough?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:231.0s" x="275.6" y="27" textLength="268.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c55)">❯ why is the cat&#x27;s pod pending?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:235.2s" x="242.0" y="27" textLength="336.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c56)">❯ can I schedule the cat on a GPU node?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:239.4s" x="271.4" y="27" textLength="277.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c57)">❯ does the cat have a CUDA core?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:243.6s" x="271.4" y="27" textLength="277.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c58)">❯ is the cat&#x27;s API rate-limited?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:247.8s" x="250.4" y="27" textLength="319.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c59)">❯ why is the cat&#x27;s cache always cold?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:252.0s" x="284.0" y="27" textLength="252.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c60)">❯ can I `git rebase` the cat?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:256.2s" x="250.4" y="27" textLength="319.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c61)">❯ does the cat have a merge conflict?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:260.4s" x="271.4" y="27" textLength="277.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c62)">❯ is the cat&#x27;s branch protected?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:264.6s" x="296.6" y="27" textLength="226.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c63)">❯ why is the cat&#x27;s CI red?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:268.8s" x="275.6" y="27" textLength="268.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c64)">❯ can I `docker build` the cat?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:273.0s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c65)">❯ does the cat have a health check?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:277.2s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c66)">❯ is the isekai world&#x27;s YAML valid?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:281.4s" x="212.6" y="27" textLength="394.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c67)">❯ why is the magical girl&#x27;s helm chart broken?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:285.6s" x="254.6" y="27" textLength="310.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c68)">❯ can I `kubectl exec` into the cat?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:289.8s" x="200.0" y="27" textLength="420.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c69)">❯ does the magical girl team have a service mesh?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:294.0s" x="254.6" y="27" textLength="310.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c70)">❯ is my anime backlog eating my RAM?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:298.2s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c71)">❯ why is the cat&#x27;s release blocked?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:302.4s" x="267.2" y="27" textLength="285.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c72)">❯ can I ship the anime on Friday?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:306.6s" x="242.0" y="27" textLength="336.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c73)">❯ does the isekai have a rollback plan?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:310.8s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c74)">❯ is the idol group&#x27;s uptime 99.9%?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:315.0s" x="263.0" y="27" textLength="294.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c75)">❯ does the mecha have a JTAG port?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:319.2s" x="288.2" y="27" textLength="243.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c76)">❯ is the mecha&#x27;s UART noisy?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:323.4s" x="263.0" y="27" textLength="294.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c77)">❯ why is the cat&#x27;s clock drifting?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:327.6s" x="267.2" y="27" textLength="285.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c78)">❯ can I `perf` the anime opening?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:331.8s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c79)">❯ does the NPC have a stack canary?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:336.0s" x="284.0" y="27" textLength="252.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c80)">❯ is the boss&#x27;s ASLR working?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:340.2s" x="246.2" y="27" textLength="327.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c81)">❯ why is the boss&#x27;s ROP chain meowing?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:344.4s" x="267.2" y="27" textLength="285.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c82)">❯ can I exploit the gacha banner?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:348.6s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c83)">❯ does the magical girl have a CVE?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:352.8s" x="267.2" y="27" textLength="285.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c84)">❯ is the mecha&#x27;s firmware signed?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:357.0s" x="271.4" y="27" textLength="277.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c85)">❯ is the mascot a kernel module?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:361.2s" x="212.6" y="27" textLength="394.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c86)">❯ does the magical girl wand support hot-swap?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:365.4s" x="153.8" y="27" textLength="512.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c87)">❯ why is the anime opening 90 seconds but the build 4 hours?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:369.6s" x="195.8" y="27" textLength="428.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c88)">❯ is the transformation sequence a race condition?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:373.8s" x="200.0" y="27" textLength="420.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c89)">❯ does the cat ear headband have a kernel driver?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:378.0s" x="212.6" y="27" textLength="394.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c90)">❯ is the power of friendship a shared library?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:382.2s" x="216.8" y="27" textLength="386.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c91)">❯ why is the tournament arc a merge conflict?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:386.4s" x="229.4" y="27" textLength="361.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c92)">❯ can I `kubectl rollout undo` the isekai?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:390.6s" x="225.2" y="27" textLength="369.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c93)">❯ is the gacha rate a floating-point error?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:394.8s" x="258.8" y="27" textLength="302.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c94)">❯ does the NPC know he&#x27;s in a loop?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:399.0s" x="263.0" y="27" textLength="294.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c95)">❯ why is the save point read-only?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:403.2s" x="208.4" y="27" textLength="403.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c96)">❯ can I `scp` the magical girl into production?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:407.4s" x="267.2" y="27" textLength="285.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c97)">❯ is the anime recap a cache hit?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:411.6s" x="233.6" y="27" textLength="352.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c98)">❯ does the beach episode have a rollback?<tspan class="cursor">▌</tspan></text>
+  <text class="line" style="animation-delay:415.8s" x="279.8" y="27" textLength="260.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c99)">❯ why is my patience `EAGAIN`?<tspan class="cursor">▌</tspan></text>
+</svg>
