@@ -65,8 +65,8 @@ sleep    = "optional dependency"
 mode     = "what's happening"
 
 [telemetry]
-tokens_burned    = "1.260B"        # estimated by vibes
-contributions    = 330             # public, this year
+tokens_burned    = "1.264B"        # estimated by vibes
+contributions    = 333             # public, this year
 public_repos     = 11
 stars            = 0               # received
 followers        = 3
@@ -74,7 +74,7 @@ energy_drinks    = "0x19"          # this year, roughly
 contexts_lost    = 404
 patience         = "deprecated"
 router_load      = "0.0% — runs on GitHub Actions"
-last_sync        = "2026-11-24"
+last_sync        = "2026-11-25"
 
 [stack]
 core     = ["C++", "Python", "JavaScript"]
