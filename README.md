@@ -52,58 +52,24 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:ff69b4&height=2" width="100%" alt="" />
 </p>
 
-### `❯ whoami`
-
-```toml
-# ~/.config/nightfun/operator.toml
-# runtime: energy drink → thoughts → commits → regret → energy drink
-
-[identity]
-alias    = ["nightfun", "intranetboy"]
-timezone = "UTC+4"
-sleep    = "optional dependency"
-mode     = "what's happening"
-
-[telemetry]
-tokens_burned    = "1.274B"        # estimated by vibes
-contributions    = 345             # public, this year
-public_repos     = 11
-stars            = 0               # received
-followers        = 3
-energy_drinks    = "0x1A"          # this year, roughly
-contexts_lost    = 404
-patience         = "deprecated"
-router_load      = "0.0% — runs on GitHub Actions"
-last_sync        = "2026-11-27"
-
-[stack]
-core     = ["C++", "Python", "JavaScript"]
-builds   = ["custom launchers", "AI harnesses", "LLM pipelines", "game localization"]
-reverse  = "binaries, protocols, other people's optimism"
-
-[current]
-building = "an AI harness that reverse-engineers the vibe"
-avoiding = "daylight"
-
-[fuels]
-caffeine   = "energy drinks — minimum viable dose"
-soundtrack = "something on repeat"
-```
-
 ### `❯ loadout`
 
-<sub>scanned across two workspaces — <code>adopted</code> is field-tested, <code>in use</code> is what runs tonight.</sub>
-
-| domain | `adopted` | `in use` |
-| :-- | :-- | :-- |
-| **languages** | Python · C++17 · C# · JS/TS · Rust/Bevy · Ren'Py | Python 3.12+ · C++20 · C# / .NET 8 · SQL |
-| **systems** | Win32 · D3D9 hooks · ImGui · WPF · CMake/MSVC · Cargo | Win32 · D2D/D3D11 · Media Foundation · WPF · CMake/Ninja · Inno Setup |
-| **web** | React 19 · Next 14 · Three.js · Electron · Express 5 · Vite | FastAPI · Jinja2 · HTMX · Uvicorn · vanilla JS |
-| **agents / bots** | vkbottle · Discord IPC · MCP | aiogram · Telethon · APScheduler · MCP stdio |
-| **AI / LLM** | OpenRouter · DeepSeek bridge · Gemini · Fish Audio | OpenRouter · DeepSeek V4.1 · Qwen embed/rerank |
-| **RE / low level** | dnlib · capstone · pefile · mitmproxy · CDP · UE4 pak | UE4 pak AES · Oodle · winsqlite3 · DPAPI · WinHTTP |
-| **localization / media** | Ren'Py/Godot/Unity/RPG Maker · FFmpeg · Pillow · NumPy/SciPy | .pak/.ufont · pypinyin/pymorphy3 · fontTools · FFmpeg · Pillow |
-| **tooling / infra** | SQLite · JSONL · Playwright/Puppeteer · Docker · Actions | SQLite WAL/FTS5 · R2/Workers · restic · systemd · uv |
+- **languages** — Python 3.12+ · C++20 · C# / .NET 8 · SQL<br>
+  <sub>adopted: Python · C++17 · C# · JS/TS · Rust/Bevy · Ren'Py</sub>
+- **systems** — Win32 · D2D/D3D11 · Media Foundation · WPF · CMake/Ninja · Inno Setup<br>
+  <sub>adopted: Win32 · D3D9 hooks · ImGui · WPF · CMake/MSVC · Cargo</sub>
+- **web** — FastAPI · Jinja2 · HTMX · Uvicorn · vanilla JS<br>
+  <sub>adopted: React 19 · Next 14 · Three.js · Electron · Express 5 · Vite</sub>
+- **agents / bots** — aiogram · Telethon · APScheduler · MCP stdio<br>
+  <sub>adopted: vkbottle · Discord IPC · MCP</sub>
+- **AI / LLM** — OpenRouter · DeepSeek V4.1 · Qwen embed/rerank<br>
+  <sub>adopted: OpenRouter · DeepSeek bridge · Gemini · Fish Audio</sub>
+- **RE / low level** — UE4 pak AES · Oodle · winsqlite3 · DPAPI · WinHTTP<br>
+  <sub>adopted: dnlib · capstone · pefile · mitmproxy · CDP · UE4 pak</sub>
+- **localization / media** — .pak/.ufont · pypinyin/pymorphy3 · fontTools · FFmpeg · Pillow<br>
+  <sub>adopted: Ren'Py/Godot/Unity/RPG Maker · FFmpeg · Pillow · NumPy/SciPy</sub>
+- **tooling / infra** — SQLite WAL/FTS5 · R2/Workers · restic · systemd · uv<br>
+  <sub>adopted: SQLite · JSONL · Playwright/Puppeteer · Docker · Actions</sub>
 
 <sub><code>// no LangChain, no vector DB</code> — memory is float32 BLOBs in SQLite, fused with FTS5 BM25 via RRF.</sub>
 
